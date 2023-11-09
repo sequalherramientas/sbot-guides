@@ -1,5 +1,5 @@
 ---
-title: "Install"
+title: "Installation"
 ---
 
 <p style="text-align: justify;">
@@ -11,8 +11,6 @@ title: "Install"
 - RAM Memory:       4 GB or higher
 - Disk Space:       1 GB free disk space
 
-</p>
-
 ### Recommended Requirements:
 
 - Operating System: Windows 10 or higher
@@ -21,3 +19,5 @@ title: "Install"
 - Disk Space:       2 GB of free disk space or higher (preferably SSD)
 - Resolution:       1920 x 1080 or higher
 - Internet Connection: Wired or wireless (WiFi)
+
+</p>

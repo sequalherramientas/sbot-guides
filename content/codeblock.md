@@ -1,14 +1,14 @@
 ---
-title: "Funciones S-BOT"
+title: "S-BOT Funcionalities"
 ---
 
-#### S-BOT tiene una cantidad de funciones de interés que podrían facilitar tu aprendizaje para la introducción y estancia en el mundo de la automatización como:
+# S-BOT has a wide variety of funcionalities that could help the ramping up, learning and execution the following technologies supported in Software Testing:
 
-* Base de datos relacionales y no relacionales
-* AS400
-* Aplicativos Web
-* Sistemas de archivos FTP
-* Simular puntos de ventas POS con sistema operativo IBM/Toshiba 4690
-* Backend de API
-* APPs y móviles
-* Microservicios con Rabbit MQ e IBM MQ
+* AS400 (Mainframe)
+* Web applications
+* Apps and mobile devices
+* POS (Point of Sale) with IBM/Toshiba operating system
+* API (Application Programming Interfaces)
+* Microservices with Rabbit MQ and IBM MQ
+* Relational and non-relational databases
+* FTP file systems
